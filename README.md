@@ -120,3 +120,15 @@ The visualization window displays four real-time charts:
 
 - `aqi_fetcher.py`: **(Producer)** Connects to Ambee API and sends JSON data to Kafka.
 - `visualization.py`: **(Consumer)** Reads JSON data from Kafka and animates the graphs.
+
+
+## Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+
+- Building real-time data streaming pipelines using Apache Kafka.
+- Implementing Kafka Producer and Consumer architecture.
+- Integrating external APIs for live data ingestion.
+- Processing and visualizing streaming data using Python and Matplotlib.
+- Designing event-driven systems for real-time analytics.
+- Working with distributed messaging systems and data flow management.
